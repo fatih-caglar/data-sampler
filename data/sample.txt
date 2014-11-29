@@ -1,0 +1,8 @@
+human, name, isim
+geo, street_addr, adres
+numeric, currency, barabarabara
+meat, wagon, pooptrain
+human, name, isim
+geo, street_addr, adres
+numeric, currency, barabarabara
+meat, wagon, pooptrain
